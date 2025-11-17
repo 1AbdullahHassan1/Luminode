@@ -2,5 +2,5 @@
   <text x=40" y="140" font-family="Arial, sans-serif" font-size="120" font-weight="900" fill="#1a1a2e" letter-spacing="-2">LUMIN</text>
   <circle cx="480" cy="100" r="55" fill="#7c3aed"/>
   <path d="M480 65 L500 100 L480 135 L460 100 Z" fill="#fbbf24"/>
-  <text x="560" y="140" font-family="Arial, sans-serif" font-size="120" font-weight="900" fill="#1a1a2e" letter-spacing="-2">DE</text>
+  <text x="580" y="140" font-family="Arial, sans-serif" font-size="120" font-weight="900" fill="#1a1a2e" letter-spacing="-2">DE</text>
 </svg>
